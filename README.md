@@ -1,6 +1,6 @@
 ![](cover.png)
 
-**Forked**
+**Forked by DockAbernathy**
 
 
 **A set of challenges to learn offensive security of smart contracts in Ethereum.**
